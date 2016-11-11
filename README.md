@@ -1,4 +1,6 @@
 # OpenOmni
+
+[![Join the chat at https://gitter.im/thecubic/Lobby](https://badges.gitter.im/thecubic/Lobby.svg)](https://gitter.im/thecubic/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Documentation and python library for decoding omnipod communications. [Join the Slack channel](https://omniapsslack.azurewebsites.net/) to discuss this work.
 
 
